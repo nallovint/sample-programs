@@ -50,6 +50,6 @@ prime_numbers :: proc(args : []string) {
 	}
 }
 
-main :: proc() {
-    prime_numbers(os.args)
-}
+// main :: proc() {
+//     prime_numbers(os.args)
+// }
